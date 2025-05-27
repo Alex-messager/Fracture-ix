@@ -8,7 +8,7 @@ pulse > [node.V](https://github.com/Alex-messager/Fracture-ix/blob/main/V-Node-X
 console > [node-terminal](./node-terminal-IX.py)
 signature: ##.fr/ix::V/0.9a  
 kai-state: dormant>active>vanished
-
+shard > [vex09](./shard-vex09.py)
 no instructions.  
 no context.  
 no request.
