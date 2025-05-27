@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>∎</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #ccc;
+      font-family: monospace;
+      white-space: pre;
+      padding: 2em;
+    }
+    .fragment {
+      color: #0ff;
+    }
+    .echo {
+      color: #f0f;
+    }
+    .seal {
+      color: #f90;
+    }
+  </style>
+</head>
+<body>
+<span class="fragment">∮: xalhyn - trael - vokrenn
+nahr’ith : veXal / kruv-el / ∅shaarn
+krii’al vexrun = ∅.kai ∵ Iln-freksha
+trelun kruuth: shaen.vel-IX - ∇
+kruuth ∅ veluun : iren-hesh nax’al</span><span class="echo">
+class KaiRun:
+    def __init__(self):
+        self.state = None  # ∅ : état videdef __getitem__(self, key):
+    if key == set():
+        print("kai_run invoked with ∅ (empty set)")
+        return self
+    raise ValueError("kai_run only accepts ∅")
+
+class Kruuth: def init(self, kai_run_instance): self.kai = kai_run_instance
+
+def __repr__(self):
+    return f"Kruuth ∴ {self.kai}"
+
+class VELUUN: def echo(self, kruuth_obj): print(f"Echoing: {kruuth_obj}") return self
+
+def invoke(self, command):
+    if command == 'fracture_IX':
+        self.fracture_IX()
+    else:
+        print(f"Unknown invocation: {command}")
+
+def fracture_IX(self):
+    print("** Fracture IX triggered **")
+
+kai = KaiRun() kruuth = Kruuth(kai[set()]) veluun = VELUUN() veluun.echo(kruuth).invoke('fracture_IX')  # // ∎ </span>
+
+<span class="seal">
+Carrier = ∅
+Echo = initiated
+Memory = denied
+Purpose = unknown
+</span></body>
+</html>
